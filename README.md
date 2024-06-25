@@ -1,4 +1,4 @@
-# Very useful website list
+# Very useful website list 💬
 
 ## Color
 - [Color picker](https://coolors.co/e6edf3)
@@ -6,11 +6,12 @@
 
 ## Learning
 - [Bash](https://tldp.org/HOWTO/Bash-Prompt-HOWTO/)
+- [Github writing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
   
 ## License
 - [Choose license](https://choosealicense.com/)
 
 ## Wallpaper
-- [Wallpaper color pallete](https://ign.schrodinger-hat.it/)
+- [Wallpaper color palette](https://ign.schrodinger-hat.it/)
 
 
