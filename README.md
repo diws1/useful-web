@@ -11,6 +11,9 @@
 ## License
 - [Choose license](https://choosealicense.com/)
 
+## Linux, BSD
+- [News & Updates](https://distrowatch.com/)
+
 ## Wallpaper
 - [Wallpaper color palette](https://ign.schrodinger-hat.it/)
 
