@@ -4,6 +4,9 @@
 - [Color picker](https://coolors.co/e6edf3)
 - [Hexadecimal Transparent](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)
 
+## Image
+- [Change the color palette](https://ign.schrodinger-hat.it/)
+
 ## Learning
 - [Bash](https://tldp.org/HOWTO/Bash-Prompt-HOWTO/)
 - [Github writing](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
@@ -14,7 +17,6 @@
 ## Linux, BSD
 - [News & Updates](https://distrowatch.com/)
 
-## Wallpaper
-- [Wallpaper color palette](https://ign.schrodinger-hat.it/)
+
 
 
