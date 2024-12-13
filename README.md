@@ -2,6 +2,7 @@
 
 ## Color
 - [Color picker](https://coolors.co/e6edf3)
+- [Color palette from image](https://coolors.co/image-picker)
 - [Hexadecimal Transparent](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)
 
 ## Image
