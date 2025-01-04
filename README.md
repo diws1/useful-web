@@ -5,7 +5,11 @@
 - [Color palette from image](https://coolors.co/image-picker)
 - [Hexadecimal Transparent](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)
 
-## Image
+## Fonts
+- [Programming Fonts](https://programmingfonts.org)
+- [Font Search & License](https://www.fontsquirrel.com/fonts/)
+  
+## Image Editor
 - [Change the color palette](https://ign.schrodinger-hat.it/)
 
 ## Learning
