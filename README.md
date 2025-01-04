@@ -7,7 +7,7 @@
 
 ## Fonts
 - [Programming Fonts](https://programmingfonts.org)
-- [Font Search & License](https://www.fontsquirrel.com/fonts/)
+- [Font Search & License](https://www.fontsquirrel.com)
   
 ## Image Editor
 - [Change the color palette](https://ign.schrodinger-hat.it/)
