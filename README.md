@@ -23,6 +23,16 @@
 ## Linux, BSD
 - [News & Updates](https://distrowatch.com/)
 
+## Wallpaper
+- Free for use and download
+  - [Pexels](https://pexels.com)
+  - [Pixabay](https://pixabay.com)
+  - [Unsplash](https://unsplash.com)
+- Buy/get the image from original creator
+  - [Artstation](https://artstation.com)
+
+  
+
 
 
 
