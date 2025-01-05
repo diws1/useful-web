@@ -3,6 +3,7 @@
 ## Color
 - [Color picker](https://coolors.co/e6edf3)
 - [Color palette from image](https://coolors.co/image-picker)
+- [Color Hex](https://www.color-hex.com/)
 - [Hexadecimal Transparent](https://gist.github.com/lopspower/03fb1cc0ac9f32ef38f4)
 
 ## Fonts
